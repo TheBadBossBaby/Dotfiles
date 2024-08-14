@@ -28,6 +28,8 @@ Here are all my dotiles stored!
         sudo pacman -S i3lock #install i3lock
         
         sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" #installs ohmyzsh
+
+        pacman --sync flameshot #installs flameshot (for screenshots and stuff)
         
         
         Happy hacking! :)
