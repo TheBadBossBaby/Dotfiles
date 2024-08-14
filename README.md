@@ -1,8 +1,7 @@
 # Dotfiles
 Here are all my dotiles stored!
-|
-|
-|___> To get started: 
+
+~ > To get started: 
       
         sudo pacman -Syu
         
