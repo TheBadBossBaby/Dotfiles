@@ -29,7 +29,7 @@ Here are all my dotiles stored!
         
         sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" #installs ohmyzsh
 
-        pacman --sync flameshot #installs flameshot (for screenshots and stuff)
+        sudo pacman --sync flameshot #installs flameshot (for screenshots and stuff)
         
         
         Happy hacking! :)
